@@ -1,0 +1,18 @@
+<apex:page controller="CustomPermissionController">
+  <apex:form id="output">
+    <apex:pageBlock>
+      <apex:pageBlockSection title="Click any Button Here">
+        <apex:commandButton action="{!isCustomPermissionEnabled}" value="Button 1" rerender="output">
+          <apex:param assignTo="{!buttonName}" value="Button1" />
+        </apex:commandButton>
+
+        <apex:commandButton action="{!isCustomPermissionEnabled}" value="Button 2" rerender="output">
+          <apex:param assignTo="{!buttonName}" value="Button2" />
+        </apex:commandButton>
+      </apex:pageBlockSection>
+      <apex:pageBlockSection title="Output">
+        <apex:outputText value="{!retValue}" />
+      </apex:pageBlockSection>
+    </apex:pageBlock>
+  </apex:form>
+</apex:page>

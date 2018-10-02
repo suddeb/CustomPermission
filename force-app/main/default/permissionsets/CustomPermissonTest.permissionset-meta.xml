@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customPermissions>
+        <enabled>true</enabled>
+        <name>Button1</name>
+    </customPermissions>
+    <description>This Permission set will  be used to test custom permission</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>CustomPermissonTest</label>
+</PermissionSet>

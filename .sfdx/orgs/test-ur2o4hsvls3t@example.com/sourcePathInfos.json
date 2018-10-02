@@ -1,0 +1,217 @@
+[
+    [
+        "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app",
+        {
+            "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1538422221266,
+            "changeTime": 1538422221266,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main",
+        {
+            "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1538422221266,
+            "changeTime": 1538422221266,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main/default",
+        {
+            "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main/default",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1538441530614,
+            "changeTime": 1538441530614,
+            "contentHash": "d5a3dc3ce685c6c703a88e7e32ed6dd29f1f7a5b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1538422221266,
+            "changeTime": 1538422221266,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission",
+        {
+            "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1538440097332,
+            "changeTime": 1538440097332,
+            "contentHash": "c076490aff59783aa559f4868b2c3d53cb886230",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main/default/customPermissions/Button1.customPermission-meta.xml",
+        {
+            "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main/default/customPermissions/Button1.customPermission-meta.xml",
+            "isDirectory": false,
+            "size": 215,
+            "modifiedTime": 1538440800403,
+            "changeTime": 1538440800403,
+            "contentHash": "439aad60ab0d3e01d7d03940b23612f3981e6780",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main/default/customPermissions/Button2.customPermission-meta.xml",
+        {
+            "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main/default/customPermissions/Button2.customPermission-meta.xml",
+            "isDirectory": false,
+            "size": 215,
+            "modifiedTime": 1538440800404,
+            "changeTime": 1538440800404,
+            "contentHash": "37c394be8bb690dfba081c3e697dda62a7c504a6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main/default/permissionsets/CustomPermissonTest.permissionset-meta.xml",
+        {
+            "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main/default/permissionsets/CustomPermissonTest.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 417,
+            "modifiedTime": 1538440800405,
+            "changeTime": 1538440800405,
+            "contentHash": "cbcd3668569c9c83eaed10dfcdd23cb9ae8f43ae",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main/default/customPermissions",
+        {
+            "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main/default/customPermissions",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1538440800404,
+            "changeTime": 1538440800404,
+            "contentHash": "b6b15b039de71fbb0ebf85cd8ffd6388219f70ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main/default/permissionsets",
+        {
+            "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1538440800405,
+            "changeTime": 1538440800405,
+            "contentHash": "f6f812e1bed999cc1800f689c0faf1118740c87e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main/default/pages/CustomPermissionVerify.page-meta.xml",
+        {
+            "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main/default/pages/CustomPermissionVerify.page-meta.xml",
+            "isDirectory": false,
+            "size": 298,
+            "modifiedTime": 1538441530611,
+            "changeTime": 1538441530611,
+            "contentHash": "a76adeb0660cc265ea475518e09bd931dd232089",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main/default/pages/CustomPermissionVerify.page",
+        {
+            "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main/default/pages/CustomPermissionVerify.page",
+            "isDirectory": false,
+            "size": 761,
+            "modifiedTime": 1538443825701,
+            "changeTime": 1538443825701,
+            "contentHash": "02a4d722b0f66ab89a41a4136df4c7daa6259678",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main/default/classes/CustomPermissionController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main/default/classes/CustomPermissionController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1538441530614,
+            "changeTime": 1538441530614,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main/default/classes/CustomPermissionController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main/default/classes/CustomPermissionController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 463,
+            "modifiedTime": 1538443858553,
+            "changeTime": 1538443858553,
+            "contentHash": "ece83817c99277445cef9bf986402751be56dd54"
+        }
+    ],
+    [
+        "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main/default/pages",
+        {
+            "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main/default/pages",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1538441530612,
+            "changeTime": 1538441530612,
+            "contentHash": "db87e10cb44c0cd1589a0c53c1f3ca9d3627b0b6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/MyCustomPermission/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1538443527783,
+            "changeTime": 1538441530615,
+            "contentHash": "7cbaf91ea6af32de3df517040f2cd3add08eac0e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]
